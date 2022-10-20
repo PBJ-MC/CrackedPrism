@@ -1,3 +1,11 @@
+# CrackedPrism
+A fork of Prism launcher that removes the authentication requirements
+
+TODO:
+- rebrand
+- third party account support
+
+# Original description
 <p align="center">
 <img src="./program_info/org.prismlauncher.PrismLauncher.logo.svg#gh-light-mode-only" alt="Prism Launcher logo" width="50%"/>
 <img src="./program_info/org.prismlauncher.PrismLauncher.logo-darkmode.svg#gh-dark-mode-only" alt="Prism Launcher logo" width="50%"/>
