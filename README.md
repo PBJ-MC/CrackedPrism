@@ -1,3 +1,7 @@
+# This project has been abandoned
+Please use PollyMC instead:
+https://github.com/fn2006/PollyMC
+
 > This project is WIP
 # CrackedPrism
 A fork of Prism Launcher that removes the authentication requirements
